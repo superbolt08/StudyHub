@@ -1,0 +1,21 @@
+{
+  "name": "studyhub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple study website to learn React and React Router.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {},
+  "keywords": ["react", "study", "learning"],
+  "author": "",
+  "license": "MIT"
+} 
